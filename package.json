@@ -1,0 +1,14 @@
+{
+  "name": "bao-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for simulating Bao gameplay mechanics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Salum @ Aislum Studio",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.13.2"
+  }
+}
