@@ -62,3 +62,11 @@ Simulates forward sowing from a given pit index
   "newBoard": [4, 4, 0, 5, 5, 5, 4, 4],
   "lastPit": 5
 }
+
+🌍 Cultural Context
+
+Bao is more than a game—it’s a reflection of strategy, rhythm, and heritage. This server aims to preserve and share its mechanics through modern tooling.
+
+📦 License
+
+MIT © Salum @ Aislum Studio
