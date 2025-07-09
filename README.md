@@ -46,19 +46,19 @@ Simulates forward sowing from a given pit index
 __Input:__
 
 {  
-  "board": [4, 4, 3, 4, 4, 4, 4, 4],
-  "pitIndex": 2
+  "board": [4, 4, 3, 4, 4, 4, 4, 4],  
+  "pitIndex": 2  
 }  
   
 __Output:__
-{
-  "newBoard": [4, 4, 0, 5, 5, 5, 4, 4],
-  "lastPit": 5
-}
+
+{  
+  "newBoard": [4, 4, 0, 5, 5, 5, 4, 4],  
+  "lastPit": 5  
+}  
 
 __🌍 Cultural Context__
-
-     'Bao is more than a game—it’s a reflection of strategy, rhythm, and heritage. This server aims to preserve and share its mechanics through modern tooling.'
+Bao is more than a game—it’s a reflection of strategy, rhythm, and heritage. This server aims to preserve and share its mechanics through modern tooling.'
 
 📦 License
 
