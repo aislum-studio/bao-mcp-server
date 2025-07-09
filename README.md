@@ -17,21 +17,23 @@ MCP (Model Context Protocol) is a universal standard that lets AI agents interac
 
 📁./data
 
-- 📁./data/board-state.json
+- ./data/board-state.json
 
 📁./tools:
 
-📁./tools/sow-forward.js
+- ./tools/sow-forward.js
 
-📁./tools/sow-reverse.js
+- ./tools/sow-reverse.js
 
-📁./tools/strategy.js
+- ./tools/strategy.js
 
-📁./index.js
+📁./:
 
-📁./mcp.config.js
+- ./index.js
 
-📁./package.js
+- ./mcp.config.js
+
+- ./package.js
 
 ## 🚀 Getting Started
 
