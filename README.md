@@ -57,7 +57,9 @@ Simulates forward sowing from a given pit index
   "pitIndex": 2
 }
 
-**output:**
+
+
+## output:##
 {
   "newBoard": [4, 4, 0, 5, 5, 5, 4, 4],
   "lastPit": 5
