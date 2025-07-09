@@ -17,16 +17,20 @@ MCP (Model Context Protocol) is a universal standard that lets AI agents interac
 
 📁./data
 
-  1: board-state.json
+- 📁./data/board-state.json
 
-📁./tools
+📁./tools:
 
-#1: sow-forward.js
-#2: sow-reverse.js
-#3: strategy.js
+📁./tools/sow-forward.js
+
+📁./tools/sow-reverse.js
+
+📁./tools/strategy.js
 
 📁./index.js
+
 📁./mcp.config.js
+
 📁./package.js
 
 ## 🚀 Getting Started
@@ -42,7 +46,7 @@ MCP (Model Context Protocol) is a universal standard that lets AI agents interac
 
 ## 🧪 Tool: sowForward
 
-Simulates forward sowing from a given pit index.
+Simulates forward sowing from a given pit index
 
 **Input:**
 ```json
@@ -51,7 +55,7 @@ Simulates forward sowing from a given pit index.
   "pitIndex": 2
 }
 
-**Output:**
+**output:**
 {
   "newBoard": [4, 4, 0, 5, 5, 5, 4, 4],
   "lastPit": 5
