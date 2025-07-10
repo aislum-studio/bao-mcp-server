@@ -1,4 +1,4 @@
-# .gitignore : The files below won'n be commited by GIT, NOT AVAILABLE TO PUBLIC USER
+# .gitignore : The files below won't be commited by GIT, NOT AVAILABLE TO PUBLIC USERS
 
 .env
 secret.txt
